@@ -1,0 +1,23 @@
+{
+  "name": "jsd1",
+  "version": "1.0.0",
+  "description": "DrumKit",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDuongOC/DrumKit.git"
+  },
+  "author": "John Duong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDuongOC/DrumKit/issues"
+  },
+  "homepage": "https://github.com/JohnDuongOC/DrumKit#readme"
+}
